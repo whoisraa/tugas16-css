@@ -5,13 +5,13 @@
 .container {
     background: #ecf0f1;
     display: flex;
-    flex-wrap: wrap;
+    align-items:center;
+    justify-content: space-between;
 }
 
 .container2 {
     background: #ecf0f1;
-    display: flex;
-    flex-wrap: wrap;
+    margin: auto;
 }
 
 .box {
@@ -24,54 +24,45 @@
 }
 
 .box1 {
-    margin-right: 220px;
     background-color: #1cd0ad;
 }
 
 .box2 {
-    margin-left: 220px;
-    margin-right: 220px;
+    margin: auto;
     background-color: #2fcc71;
 }
 
 .box3 {
-    margin-left: 220px;
     background-color: #3598db;
 }
 
 .box4 {
-    margin-left: 640px;
-    margin-right: 640px;
+    margin: auto;
     background-color: #9b59b4;
 }
 
 .box5 {
-    margin-right: 220px;
     background-color: #34495e;
 }
 
 .box6 {
-    margin-left: 220px;
-    margin-right: 220px;
+    margin: auto;
     background-color: #f1c40f;
 }
 
 .box7 {
-    margin-left: 220px;
     background-color: #e67f22;
 }
 
 .box8 {
+    margin: auto;
     background-color: #e84c3e;
 }
 
 .box9 {
-    margin-right: 220px;
     background-color: #95a5a5;
 }
 
 .box10 {
-    margin-left: 220px;
-    margin-right: 220px;
     background-color: #7e8c8d;
 }
